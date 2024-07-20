@@ -1,0 +1,13 @@
+Daftar Akun
+
+Email		: admin@jogjaku.com
+Password 	: admin
+Role		: admin
+
+Email		: user@jogjaku.com
+Password 	: user
+Role		: user
+
+
+
+
